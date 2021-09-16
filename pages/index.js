@@ -9,11 +9,14 @@ export default function Home() {
         <title>Airbnb-clone</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-{/* header */}
+      {/* header */}
       <Header />
       {/* banner */}
-<Banner/>
+      <Banner />
       {/* explore near by */}
+      <main>
+        
+      </main>
     </div>
   );
 }
